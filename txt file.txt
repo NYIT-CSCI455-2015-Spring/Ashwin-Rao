@@ -1,8 +1,6 @@
 Ashwin Rao's text file
 Hello there
 
-<<<<<<< HEAD
 
-=======
 edited in git hub
->>>>>>> fcd1728636cb92cd51ec88dfb89093d741916636
+
