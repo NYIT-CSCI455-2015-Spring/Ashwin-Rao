@@ -1,6 +1,4 @@
 Ashwin Rao's text file
 Hello there
-
-
 edited in git hub
 
